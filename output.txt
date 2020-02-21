@@ -1,0 +1,41 @@
+Day in Zoo Begins
+Zack the ZooKeeper is opening up the zoo ------- 
+Hello, this is the ZooAnnouncer, the zoo is opening
+Winston the Wolf has woken up
+Dennis the Dog has woken up
+Cathy the Cat has woken up
+Tony the Tiger has woken up
+Henry the Hippo has woken up
+Earl the Elephant has woken up
+Zack the ZooKeeper is checking if all animals are accounted for --------
+The ZooKeeper is introducing our animals
+AWOOOOOOO
+WOOF WOOF
+MEOWWWW
+RAWWWWR
+BLOOP BLOOP
+TRUUUUNK
+Zack the ZooKeeper is feeding all the animals --------
+The ZooKeeper is feeding our animals
+Winston the Wolf is eating meat
+Dennis the Dog is eating meat
+Cathy the Cat is eating feline food
+Tony the Tiger is eating feline food
+Henry the Hippo is eating grass
+Earl the Elephant is eating grass
+Zack the ZooKeeper is taking the animals out of their cage -------
+The ZooKeeper is letting our animals out for the day
+Winston the Wolf is pacing
+Dennis the Dog is pacing
+Cathy the Cat is exploring
+Tony the Tiger is exploring
+Henry the Hippo is roaming
+Earl the Elephant is roaming
+Zack the ZooKeeper is closing the zoo -------
+The Zoo is now shutting down, please make your way to the exit
+Winston the Wolf has gone to sleep
+Dennis the Dog has gone to sleep
+Cathy the Cat has gone to sleep
+Tony the Tiger has gone to sleep
+Henry the Hippo has gone to sleep
+Earl the Elephant has gone to sleep
